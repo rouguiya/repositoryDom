@@ -1,0 +1,44 @@
+*{
+       background-color: white;
+   }
+   img{
+       width: 20%;height: 200px;
+   }
+   
+   #Group1{
+       display: flex;
+       margin-left: 150px;
+   }
+   #Group1 p{
+       margin-left: 20px;
+   }
+   .container img{
+       width: 300px;
+   }
+   .container{
+       align-items: center;
+   }
+   .quantite{
+       width: 45px;
+       height: 35px;
+       text-align: center;
+       border: none;
+   }
+   .total{
+       width: 45px;
+       height: 35px;
+       border: none;
+       text-align: center;
+   }
+   .Prixtotal{
+       width: 45px;
+       height: 35px;
+       border: none;
+       text-align: center;
+       margin-right: 0%;
+       
+   }
+   .liked{
+       color: red;
+       outline-style: hidden;
+   }
